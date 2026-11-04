@@ -1,6 +1,4 @@
-# caribou-gerrymandering
-
-**How boundary delineation shapes population trend estimates: a boreal caribou case study**
+# How boundary delineation shapes population trend estimates: a boreal caribou case study
 
 Chloe Beaupré, Allicia Kelly, James Hodson, Ashley A.D. McLaren, Ève Lamontagne, Eliezer Gurarie. 2026. Manuscript in review. [DOI when published]
 
