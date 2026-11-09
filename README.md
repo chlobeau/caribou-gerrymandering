@@ -14,7 +14,7 @@ We compare six boundary schemes (StudyArea, StudyArea2, Landscape, RangePlan, Ha
 ## Data availability
 
 Code for all analyses and demographic data, with spatial coordinates removed and polygon delineation assignments retained, are available in this repository. 
-Boreal caribou movement data are owned by the Government of the Northwest Territories. Researchers seeking access should contact the Department of Environment and Climate Change, which can grant access to the dataset on Movebank.
+The Government of the Northwest Territories Department of Environment and Climate Change owns the boreal caribou movement data and may share them with researchers through data sharing agreements upon reasonable request.
 
 ## Requirements
 
